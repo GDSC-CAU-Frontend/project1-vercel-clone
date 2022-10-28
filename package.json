@@ -2,7 +2,7 @@
     "name": "gdsc-project1-vercel-clone",
     "description": "frontend chapter project",
     "scripts": {
-        "install": "gitmoji --init"
+        "preinstall": "gitmoji --init && git submodule init && git submodule update"
     },
     "devDependencies": {
         "gitmoji-cli": "^7.0.2"
