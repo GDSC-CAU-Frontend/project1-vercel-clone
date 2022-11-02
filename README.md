@@ -37,7 +37,6 @@ chore    : 빌드 업무 수정, 패키지 매니저 수정
 2. `radial gradient`와 `blur` api를 사용한 효과
 3. 버튼 `ring` 회전
 4. `gradient` 텍스트 변형 및 전환
-5. `media query`를 사용한 반응형 디자인
 
 ---
 
